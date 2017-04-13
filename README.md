@@ -1,1 +1,2 @@
-# Udacity Deep Learning Repo
+# Udacity Deep Learning Nanodegree - Project 1
+
